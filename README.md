@@ -23,7 +23,7 @@ Step 6: open google page using Implicit Intents and display factorial number usi
 
 Step 7: Save and run the application.
 
-##PROGRAM:
+## PROGRAM:
 ```
 /*
 Program to print the text “Implicit Intents”.
@@ -107,10 +107,10 @@ activity_main.xml
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-##OUTPUT
+## OUTPUT
 ![i1](https://user-images.githubusercontent.com/75243072/165235291-d0de8eed-68a6-4d04-9f0d-810427625f9d.png)
 ![Screenshot (88)](https://user-images.githubusercontent.com/75243072/165235367-cfb3f632-0a84-4ad5-ac1b-f0defbae54e8.png)
 
 
-##RESULT
+## RESULT
 Thus a Simple Android Application to open google page using Implicit Intents and display factorial of the same number using Explicit Intents using Android Studio is developed and executed successfully.
